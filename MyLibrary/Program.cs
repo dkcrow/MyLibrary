@@ -11,6 +11,7 @@ namespace MyLibrary
         static void Main(string[] args)
         {
             Console.WriteLine("heeh");
+            Console.WriteLine("让我再试一下");
             Console.ReadLine();
         }
     }
