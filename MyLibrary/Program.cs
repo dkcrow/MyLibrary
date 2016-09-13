@@ -10,6 +10,8 @@ namespace MyLibrary
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("heeh");
+            Console.ReadLine();
         }
     }
 }
